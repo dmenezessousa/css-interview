@@ -1,0 +1,19 @@
+div{
+    border:solid blue;
+    background-color: powderblue;
+    padding: 25px;
+    box-shadow: 5px 10px purple;
+}
+h1{
+    font-family: Arial;
+}
+img{
+    border-radius: 50px;
+}
+li{
+    font-style: italic;
+    margin: 10px;
+}
+body{
+    background-image: url(codecamp-2x.webp);
+}
